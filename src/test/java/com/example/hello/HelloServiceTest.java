@@ -5,7 +5,7 @@ import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import slick.adapter.JdbiSession;
-import slick.adapter.SlickJdbcProvider;
+import slick.adapter.javaapi.SlickJdbcProvider;
 
 import java.util.List;
 
